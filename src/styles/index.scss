@@ -11,3 +11,28 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.container{
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    background: #101010;
+}
+
+.bigCounter{
+          
+    display: flex;
+    flex-wrap: nowrap;    
+    padding-top: 5%;
+    
+      
+}
+
+.four,.three,.two,.one,i{
+    margin: auto;
+    display: flex;
+    color: white;
+    
+
+}
